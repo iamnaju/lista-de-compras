@@ -40,7 +40,7 @@ background: linear-gradient(90deg, rgba(42, 123, 155, 1) 0%, rgb(87, 199, 199) 8
 
 /* --------container-------*/
 .container {
-    background: var(--cor-bg);
+    background: #ddd;
     padding: clamp(2rem, 5vw, 3rem);
     border-radius: var(--raio);
     box-shadow: 0 8px 24px var(--cor-sombra);
